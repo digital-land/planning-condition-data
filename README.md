@@ -12,3 +12,4 @@ Once planning authorities start publishing their planning condition data on thei
 | Name | Description | Date Added |
 | --- | --- | --- |
 | Doncaster 2023 conditions | All the conditions for planning applications decided in 2023 | 2025-01-30 |
+| Doncaster 2024 conditions | All the conditions for planning applications decided in 2024 | 2025-06-09 |
